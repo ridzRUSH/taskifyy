@@ -1,0 +1,13 @@
+/* Global Reset */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Optional: If you want to set a specific margin or padding later for body or root container */
+body {
+  font-family: Arial, sans-serif;
+}
